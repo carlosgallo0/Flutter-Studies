@@ -5,7 +5,7 @@ printHelloWorld(msg: minhaClasse.message);
 }
 
 void printHelloWorld({required String msg}){
- print(msg);
+ print(msg.replaceAll('certoo', 'bomm'));
 }
 
 class MinhaClasse{
