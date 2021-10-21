@@ -15,8 +15,7 @@
 ### An amazing payment app
 Courtesy of [RocketSeat next level week bootcamp](https://github.com/rocketseat-education/nlw-06-flutter) 💜🚀
 ![image](https://user-images.githubusercontent.com/68342326/138187007-b63f7589-6c96-43e4-9731-b019bb7eebc2.png)
-
-(in progress)
+#### 🚧 Work in progress
 
 
 
