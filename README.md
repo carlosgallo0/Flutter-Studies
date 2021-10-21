@@ -7,12 +7,12 @@
 
 
 
-### My first (flutter) cross platform app
+### My first (flutter) cross-platform App
 
 <img width="800" alt="MicrosoftTeams-image (53)" src="https://user-images.githubusercontent.com/68342326/138186843-cb04f64e-c6a2-4abf-98cb-2d7e33c76ffa.png">
 
 
-### An amazing payment app
+### An amazing payment App
 Courtesy of [RocketSeat next level week bootcamp](https://github.com/rocketseat-education/nlw-06-flutter) 💜🚀
 ![image](https://user-images.githubusercontent.com/68342326/138187007-b63f7589-6c96-43e4-9731-b019bb7eebc2.png)
 #### 🚧 Work in progress
