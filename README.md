@@ -1,4 +1,4 @@
-# Welcome to my flutter and dart studies!
+# 📚 Welcome to my Flutter and Dart studies!
 ![flutter logo](https://user-images.githubusercontent.com/68342326/138188739-7d089795-f812-419b-9dbc-88aa63d4d86b.png)
 
 
