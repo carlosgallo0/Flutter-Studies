@@ -1,36 +1,47 @@
 //* CLASSES E CONSTUTORES 
-// ignore_for_file: empty_constructor_bodies
 
 
 enum MediaType { image, video }
 
 class Media {
+//atributos de instancia, precisa de uma instancia criada 
   MediaType? mediaType;
   String? mediaName;
   String? mediaUrl;
   Function? onClick;
 
+ //atributos estáticos, não necessitam de uma instancia
+ static String name= 'Media';
+
+
+
 // criando um construtor
-  Media.namedConstructor(String mediaNameConst, String mediaUrlConst) {
+  Media.namedConstructor(String mediaNameConst,
+   String mediaUrlConst) {
     mediaName = mediaNameConst;
+
     mediaUrl = mediaUrlConst;
   }
-
-  Media({required this.mediaName,
+  
+  Media({   
+        required this.mediaName,
         required this.mediaUrl,
         }) 
 }
 
+
 void main() {
 //instanciar essa classe
-  var testMedia = Media(
+  var  testMedia = Media(
     mediaName:'image',mediaUrl: 'url'
   );
-  print('''
-Media:
+  print(
+    '''
+
 media type: ${testMedia.mediaName}
 Media url: ${testMedia.mediaUrl}
 ''');
+
 }
 
 

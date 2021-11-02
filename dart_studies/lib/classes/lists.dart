@@ -39,4 +39,16 @@ void main() {
 
   var spreadListC = [...spreadList, ...spreadListB];
   print(spreadListC);
+
+//*Part 3
+//array bidimensional
+  var arrayBi = [
+    [1, 2],
+    [3, 4]
+  ];
+  var iterableExpand = arrayBi.expand((numeros) => numeros);
+  print(iterableExpand);
+
+  var listExpand = arrayBi.expand((numeros) => numeros).toList();
+  print(listExpand);
 }
